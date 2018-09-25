@@ -1,7 +1,14 @@
+intracked -> antes do comit
+tracked -> pronto para o comit
 git clone -> traz o repositório da núvem para o diretório local
 git status -> ciclo de estados dos meus arquivos tracked = verde ou ontracked = vermelho
 git add * -> mostrar ao git quais arquivos 
 git nome do arquiv -> você envia so ele
+comit -> Demostrar que ta tudo pronto para mandar pro repositório
+git push-> Envia definitivo
+
+
+
 touch + nome do arquivo + ponto + tipo, vc cria um arquivo de algum tipo
-intracked -> antes do comit
-tracked -> pronto para o comit
+
+git checkout -b "nome da branch" -> cria uma branch
