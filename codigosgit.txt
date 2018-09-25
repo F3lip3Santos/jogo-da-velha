@@ -12,3 +12,6 @@ git push-> Envia definitivo
 touch + nome do arquivo + ponto + tipo, vc cria um arquivo de algum tipo
 
 git checkout -b "nome da branch" -> cria uma branch
+
+git branch -a -> ele mostra qual branch eu devo colocar o commit
+git push --set-upstream origin Tela1 -> para mandar pra branch Tela1 que foi criada
